@@ -1,2 +1,2 @@
 # Bipin-s-project
-This is my first reposetory
+This is my first repository
